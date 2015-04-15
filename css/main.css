@@ -1,0 +1,91 @@
+.navbar {
+    margin-bottom: 0px;
+    border-bottom: 3px solid #dbdbdb;
+}
+
+
+.navbar a {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-image:url('../img/space.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px;
+  border-bottom: 3px solid #dbdbdb;
+}
+
+.jumbotron .container {
+  text-align: center;
+}
+
+.footer {
+    background-color: #efefef;
+}
+.footer .container {
+  text-align: center;
+}
+.overview {
+  text-align: center;
+  padding-bottom: 18px;
+  padding-top: 18px;
+  color: #393c3d;
+  font-size: 18px;  
+  background-color: #efefef;
+  border-bottom: 3px solid #dbdbdb;
+}
+
+.overview h2 {
+  font-size: 24px;  
+  font-weight: bold;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-weight: bold;
+}
+
+.top-buffer { 
+    margin-top:20px; 
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.main {
+    background-color: #ffffff;
+    border-bottom: 3px solid #dbdbdb;
+}
+
+.nav-tabs > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+    zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs {
+  color: #5a5a5a;
+  font-size: 18px;
+  text-align:center;
+
+}
+
+.charts {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px; 
+    height: 400px
+}
+
+.input-labels {
+    text-align: right;
+    font-size: 15px;
+}
